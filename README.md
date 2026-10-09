@@ -1,2 +1,2 @@
 # A-new-journey
-My repository in cs skills.
+Some of the classical algorithm.
