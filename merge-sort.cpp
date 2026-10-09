@@ -54,7 +54,7 @@ void run_test(std::vector<double> values,
 
 int main()
 {
-    // Starter tests.
+    // Tests.
     run_test({}, {}, "empty vector");
     run_test({4.0}, {4.0}, "one value");
     run_test({3.0, -1.0, 2.0, 2.0, 0.0},
